@@ -1,4 +1,7 @@
-- 👋 Merhaba ben @ysnyildirim
+- 👋 Merhaba ben @ysnyildirim 
+- Spring 
+- Hibernate
+- Rest Api
 - 👀 Mikroservis
 - 🌱 RabbitMq , Apache Kafka
 - 💞️ Gateway
